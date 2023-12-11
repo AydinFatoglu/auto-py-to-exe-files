@@ -19,3 +19,6 @@ The `get_resource_path` function is designed to reliably find and return the abs
 
 ### Usage
 This function is particularly useful when you need to access external resources in your application, both during development and after compiling it into an executable. Use this function to generate the correct path to your resources, ensuring they are loaded correctly in all scenarios.
+
+###Info
+https://github.com/wxWidgets/Phoenix/issues/2234
